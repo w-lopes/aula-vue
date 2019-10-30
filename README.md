@@ -12,4 +12,4 @@ O APP solicita um ID e realiza a consulta do mesmo em uma API Mock e mostra o re
 API mockada em [mockAPI](https://www.mockapi.io/)
 
 ## Instrutor
-Vue Guide xD(https://vuejs.org/guide/)
+[Vue Guide xD](https://vuejs.org/guide/)
