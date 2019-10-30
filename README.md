@@ -1,4 +1,4 @@
-# Aula básica de React
+# Aula básica de Vue
 
 Exercício rápido para entendimento de conceitos do Vue.js
 
