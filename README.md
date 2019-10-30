@@ -1,24 +1,12 @@
-# aula-vue
+# Aula básica de React
 
-## Project setup
-```
-npm install
-```
+Exercício rápido para entendimento de conceitos do Vue.js
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Funcionalidade
 
-### Compiles and minifies for production
-```
-npm run build
-```
+1. **Home:** Breve descrição do APP;
+2. **Consulta:** Funcionalidade do APP.
 
-### Lints and fixes files
-```
-npm run lint
-```
+O APP solicita um ID e realiza a consulta do mesmo em uma API Mock e mostra o retorno.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+API mockada em [mockAPI](https://www.mockapi.io/)
